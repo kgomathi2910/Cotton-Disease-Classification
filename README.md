@@ -1,3 +1,3 @@
 # Cotton-Disease-Prediction
 
-This is project on Classification based on Cotton plant disease prediction using Transfer Learning. Achieved an accuracy of 96.7% using ResNet152V2
+A project which classifies cotton plants into 4 categories - Diseased Plant, Diseased Leaf, Fresh Plant and Fresh Leaf using Transfer Learning.  Compared the performances of different Neural Network Architectures - InceptionV3, ResNet50, ResNet152V2 and obtained an accuracy of 94.87%, 73.55%, 97.85% respectively.
